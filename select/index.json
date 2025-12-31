@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "As You Wish",
+  "base_artist": "WJSN",
+  "createdAt": "2025-12-31T16:15:00.786709Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Loveboy",
+      "has_synced": true,
+      "path": "select/01_As_You_Wish_Loveboy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Okonomi De -As You Wish-",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/02_Okonomi_De_-As_You_Wish-_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "WJSN",
+      "has_synced": true,
+      "path": "select/03_As_You_Wish_WJSN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Alesana",
+      "has_synced": true,
+      "path": "select/04_As_You_Wish_Alesana.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Public Memory",
+      "has_synced": true,
+      "path": "select/05_As_You_Wish_Public_Memory.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Alesana",
+      "has_synced": true,
+      "path": "select/06_As_You_Wish_Alesana.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Brandtson",
+      "has_synced": false,
+      "path": "select/07_As_You_Wish_Brandtson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Pyogenesis",
+      "has_synced": false,
+      "path": "select/08_As_You_Wish_Pyogenesis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Wan Fang",
+      "has_synced": true,
+      "path": "select/09_As_You_Wish_Wan_Fang.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Vista Chino",
+      "has_synced": false,
+      "path": "select/10_As_You_Wish_Vista_Chino.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Paul Blanco",
+      "has_synced": true,
+      "path": "select/11_As_You_Wish_Paul_Blanco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Dropout Year",
+      "has_synced": false,
+      "path": "select/12_As_You_Wish_Dropout_Year.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Dropout Year",
+      "has_synced": true,
+      "path": "select/13_As_You_Wish_Dropout_Year.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "As You Wish (이루리)",
+      "artist": "WJSN",
+      "has_synced": true,
+      "path": "select/14_As_You_Wish_(이루리)_WJSN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "WJSN",
+      "has_synced": true,
+      "path": "select/15_As_You_Wish_WJSN.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Persuader",
+      "has_synced": true,
+      "path": "select/16_As_You_Wish_Persuader.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "ExWHYZ",
+      "has_synced": true,
+      "path": "select/17_As_You_Wish_ExWHYZ.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "As You Wish",
+      "artist": "Lady Silver",
+      "has_synced": false,
+      "path": "select/18_As_You_Wish_Lady_Silver.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "As You Wish",
+      "artist": "WJSN",
+      "has_synced": false,
+      "path": "select/pl_01_As_You_Wish_WJSN.txt"
+    }
+  ]
+}
